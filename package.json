@@ -1,0 +1,13 @@
+{
+  "name": "cs140-flow-loops",
+  "private": true,
+  "type": "module",
+  "description": "Four loops that build, count and search, and the lifting club's weekly sheet that uses them.",
+  "scripts": {
+    "test": "node --test",
+    "start": "node src/club-sheet.js"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
